@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/default",
+      "filter": {
+        "uniform": false
+      }
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/unifont"
+    },
+    {
+      "file":"frog:font/logo.png",
+      "chars":[ "\ue238" ],
+      "height":52,
+      "ascent":33,
+      "type":"bitmap"
+    }
+  ]
+}
