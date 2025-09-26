@@ -19,7 +19,7 @@
       "file":"frog:font/logo.png",
       "chars":[ "\ue238" ],
       "height":53,
-      "ascent":0,
+      "ascent":20,
       "type":"bitmap"
     }
   ]
